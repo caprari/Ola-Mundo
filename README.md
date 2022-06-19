@@ -1,8 +1,22 @@
 # Olá, Mundo!
  Primeiro Repositório do **Git e GitHub**.
 
- Inclusão de nova linha.
- 
- Linha incluida no site.
+**Negrito** / *Itálico*
 
- Teste.
+Tipos de Listas:
+
+Lista Numerada
+1. Teste1
+2. Teste2
+3. Teste3
+
+Lista Demarcarda
+* Teste4
+* Teste5
+   * Teste6
+* Teste7
+
+Lista de Tarefas
+- [ ] Teste8
+- [x] Teste9
+- [ ] Teste10
